@@ -1,0 +1,36 @@
+# Vivado / Vitis generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.dcp
+*.rpt
+*.xsim
+*.ltx
+*.bit
+*.bin
+*.mmi
+*.xsa
+
+.vivado/
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.srcs/
+.gen/
+.xil/
+
+# Vitis / Eclipse generated files
+.metadata/
+.settings/
+Debug/
+Release/
+target/
+
+# Java build output
+*.class
+
+# OS/editor files
+.DS_Store
+Thumbs.db
